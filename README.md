@@ -3,13 +3,14 @@
 
 
 [Instructions](#instructions)<br />
+Choose your automation framework of choice.  Bonus points for leveraging a BDD tool.
+You can use any language; JAVA, Ruby, Python, and or AngularJS.
+
 Clone this Repo<br />
 Create a branch and name it with your "firstname_lastname"<br />
 Make sure to update your README to show how to run your scripts<br />
-Fulfill the two scenarios
+Fulfill the following two scenarios
 
-Choose your automation framework of choice.  Bonus points for leveraging a BDD tool.
-You can use any language; JAVA, Ruby, Python, and or AngularJS.
 
 Feature: Automate<br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an Engr. Candidate<br />
