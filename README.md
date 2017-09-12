@@ -9,7 +9,8 @@ You can use any language; JAVA, Ruby, Python, and or AngularJS.
 Clone this Repo<br />
 Create a branch and name it with your "firstname_lastname"<br />
 Make sure to update your README to show how to run your scripts<br />
-Fulfill the following two scenarios
+Fulfill the following two scenarios<br />
+Once complete push your branch up
 
 
 Feature: Automate<br /> 
